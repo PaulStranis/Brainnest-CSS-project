@@ -73,6 +73,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: auto;
 }
 
 header{
@@ -88,6 +89,7 @@ menu {
     align-items: baseline;
     width: 420px;
     justify-content: space-between;
+
 }
 
 menu a {
@@ -108,6 +110,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 1350px;
 }
 
 
